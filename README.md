@@ -1,5 +1,5 @@
 # React-JS
 
-##initialize the react
+## initialize the react
 
-##command to make the react app: "npx create-react-app {app_name}"
+## command to make the react app: "npx create-react-app {app_name}"
